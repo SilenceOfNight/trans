@@ -1,0 +1,24 @@
+{
+  "name": "trans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SilenceOfNight/trans.git",
+  "author": "SilenceOfNight <yiyushangzhi@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.15.2",
+    "babel-plugin-import": "^1.11.0",
+    "babel-plugin-styled-components": "^1.10.0",
+    "next": "^8.0.3",
+    "normalize.css": "^8.0.1",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "styled-components": "^4.2.0"
+  }
+}
